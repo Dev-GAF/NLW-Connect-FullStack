@@ -85,4 +85,4 @@ O projeto foi desenvolvido com CSS para garantir uma experiência agradável em 
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais detalhes.
+### Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais detalhes.
