@@ -24,26 +24,7 @@ Este projeto é ideal para entender como criar uma dinâmica simples de referên
 
 Os dados de usuários são armazenados no seguinte formato:
 
-const users = [
-  {
-      email: "test@test.com",
-      phone: "99999999999",
-      ref: 100,
-      refBy: null
-  },
-  {
-      email: "tust@tust.com",
-      phone: "99999999999",
-      ref: 200,
-      refBy: 100
-  },
-  {
-      email: 'tost@tost.com',
-      phone: '99999999999',
-      ref: 300,
-      refBy: 200
-  }
-]
+![imagem alt](https://github.com/Dev-GAF/NLW-Connect-FullStack/blob/f322d126f84fff245c3e1eb7c89c0b852ae16550/Imagem.png)
 
 * email: E-mail do usuário.
 * phone: Número de telefone do usuário.
