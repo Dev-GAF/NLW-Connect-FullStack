@@ -2,6 +2,8 @@
 
 NLW Connect é uma aplicação interativa que simula um sistema de inscrição e referência para um evento online. Desenvolvida com HTML, CSS e JavaScript, ela permite que usuários se inscrevam em um evento, gerem links únicos de referência e compartilhem com outras pessoas. À medida que outras pessoas se inscrevem através de seus links, os usuários acompanham as inscrições realizadas por suas referências.
 
+### 🔗 Veja a página em funcionamento: https://dev-gaf.github.io/NLW-Connect-FullStack/
+
 Este projeto é ideal para entender como criar uma dinâmica simples de referências e rastrear usuários sem a necessidade de um banco de dados, utilizando apenas armazenamento local no código.
 
 ## 🎯 Funcionalidades
