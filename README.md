@@ -31,7 +31,7 @@ Os dados de usuários são armazenados no seguinte formato:
 * ref: ID único de referência gerado para o usuário.
 * refBy: ID do usuário que referenciou o novo usuário (caso haja uma referência).
 
-## 📱 Inteface
+## 📱 Interface
 
 A interface é composta por duas principais seções:
 
